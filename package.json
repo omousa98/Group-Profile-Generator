@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.3"
+  },
+  "name": "Group-Profile-Generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omousa98/Group-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omousa98/Group-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/omousa98/Group-Profile-Generator#readme"
+}
