@@ -1,11 +1,11 @@
-const manager = require("");
-const engineer = require("");
-const intern = require("");
+const manager = require("./Develop/lib/Manager");
+const engineer = require("./Develop/lib/Engineer");
+const intern = require("./Develop/lib/Intern");
 const inquirer = require("inquirer");
 const path = require("path");
 const fs = require("fs");
-const Manager = require("");
-const Engineer = require("");
+const Manager = require("./Develop/lib/Manager");
+const Engineer = require("./Develop/lib/Engineer");
 
 //Write your app here
 const employees = [];
@@ -106,7 +106,7 @@ const createEmployee = () => {
 <body>
         <section>
         <div class="container">
-        <h1 class="text-center">Team Profile</h1>
+        <h1 class="text-center">Group Profile Generator</h1>
              <div class="row justify-content-evenly mt-5">
              ${employees.map((value) => {
                return `
