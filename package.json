@@ -3,7 +3,7 @@
     "inquirer": "^8.2.0",
     "jest": "^27.4.3"
   },
-  "name": "Group-Profile-Generator",
+  "name": "group-profile-generator",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
