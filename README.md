@@ -16,6 +16,11 @@
 ![screenshot1](https://raw.githubusercontent.com/omousa98/Group-Profile-Generator/main/Develop/Finished.jpg)
 ![screenshot2](https://raw.githubusercontent.com/omousa98/Group-Profile-Generator/main/Develop/Website.jpg)
 
+## Youtube (Click on Image to be directed to youtube)
+
+[![Group Profile Gen Walkthrough](https://github.com/omousa98/Group-Profile-Generator/blob/main/Develop/youtube.jpg?raw=true)](https://www.youtube.com/watch?v=QJm79unh-Ws)
+
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
